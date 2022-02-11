@@ -1,0 +1,16 @@
+<Project>
+	<PropertyGroup>
+		<Version>1.0</Version>
+		<FileVersion>1.0.0.0</FileVersion>
+		<Product>Tethys.XlsxSupport</Product>
+		<Company></Company>
+		<Copyright>Copyright © 2022 T. Graf</Copyright>
+		<Authors>T. Graf</Authors>
+		<Description>Library to simplify working with the Open XML SDK for Office.</Description>
+		<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+		<RepositoryType>git</RepositoryType>
+		<PackageProjectUrl>https://github.com/tngraf/Tethys.XlsxSupport</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/tngraf/Tethys.XlsxSupport</RepositoryUrl>
+		<PackageTags>Tethys Office Excel Xlsx</PackageTags>
+	</PropertyGroup>
+</Project>
