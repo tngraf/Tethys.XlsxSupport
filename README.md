@@ -7,7 +7,7 @@ there is a steep learning curve. Tethys.XlsxSupport simplies a number of operati
 
 ## Project Build Status
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
-[![Build status](https://ci.appveyor.com/api/projects/status/yqtxri7l6td84nxm?svg=true)](https://ci.appveyor.com/project/tngraf/tethys-XlsxSupport)
+[![Build status](https://ci.appveyor.com/api/projects/status/6huida3wfgnklsrs?svg=true)](https://ci.appveyor.com/project/tngraf/tethys-xlsxsupport)
 [![Nuget](https://img.shields.io/badge/nuget-1.0.0-brightgreen.svg)](https://www.nuget.org/packages/Tethys.XlsxSupport/1.0.0)
 
 ## Get Package
