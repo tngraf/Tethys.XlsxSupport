@@ -284,7 +284,7 @@ namespace Tethys.XlsxSupport
         } // GetSharedStringItemById()
 
         /// <summary>
-        /// Gets the worksheet part for the sheet with teh specified name.
+        /// Gets the worksheet part for the sheet with the specified name.
         /// </summary>
         /// <param name="workbookPart">The workbook part.</param>
         /// <param name="sheetName">Name of the sheet.</param>

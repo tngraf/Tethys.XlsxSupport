@@ -269,14 +269,14 @@ namespace Tethys.XlsxSupport.Demo
 
             // 164 seems to be a good start index value for custom formats
             // http://polymathprogrammer.com/2009/11/09/how-to-create-stylesheet-in-excel-open-xml/
-            // 5 seems also so be useable, see
+            // 5 seems also so be usable, see
             // https://docs.microsoft.com/de-de/dotnet/api/documentformat.openxml.spreadsheet.numberingformat?view=openxml-2.8.1
             // NumberFormatId = 5,
             uint numberFormatIndex = 164;
             numberingFormats.Append(new NumberingFormat
             {
                 NumberFormatId = numberFormatIndex++,
-                FormatCode = "mmmm-YY", // "Juni 20"
+                FormatCode = "mmmm-YY", // "June 20"
             });
 
             numberingFormats.Append(new NumberingFormat
